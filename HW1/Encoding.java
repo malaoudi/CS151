@@ -29,11 +29,11 @@ public class Encoding {
             Set<String> subresult2 = morseCodes(m, n-1);
 
             for(String str : subresult1){
-                // append "." to str and add it to "result"
+                // append "." to string1 and add it to "result"
                 result.add(str + ".");
             }
             for(String str : subresult2){
-                // append "-" to str and add it to "result"
+                // append "-" to string1 and add it to "result"
                 result.add(str + "-");
             }
 
