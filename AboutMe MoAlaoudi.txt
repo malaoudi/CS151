@@ -1,0 +1,15 @@
+Your name: Mo Alaoudi	
+Your student ID:014422968
+Your major:CS
+Your preferred email address: mo.alaoudi@gmail.com
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university
+Graduating senior? [x] Yes, [ ] No
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: Diablo Valley College, FA 2018
+Course number and grade received: A
+Place and semester where you took a course in data structures: Diablo Valley College, Spring 2018
+Course number and grade received: A
+Time it took you to answer the two questions below: 2.5 Hours
+Did you ask anyone for help? [ ] Yes, [x] No
+Preferred section (if adding): [ ] 3, [ ] 4, [ ] 6
+Other acceptable sections (if adding): 
